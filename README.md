@@ -65,6 +65,5 @@
 <br clear="both">
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+<a href=#><img src="contributions.svg"></a>
 </div>
