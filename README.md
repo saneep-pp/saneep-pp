@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/view/programmer-gif-16947823384733843530)" />
+<img align="right" height="150" src="https://tenor.com/view/programmer-gif-16947823384733843530" />
 
 ###
 
@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/saneep-p-p" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=+919747314758](https://api.whatsapp.com/send/?phone=%2B919747314758&text&type=phone_number&app_absent=0)" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=%2B919747314758&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
 </div>
