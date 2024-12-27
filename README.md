@@ -4,15 +4,14 @@
 
 ###
 
-
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saneep-pp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saneep-pp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/programmer-gif-16947823384733843530" />
-<div class="tenor-gif-embed"  data-postid="16947823384733843530" data-share-method="host" data-aspect-ratio="1.2029" data-width="100%"><a href="https://tenor.com/view/programmer-gif-16947823384733843530">Programmer GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
