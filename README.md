@@ -6,13 +6,12 @@
 
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 
 
 ###
 
-//<img align="right" height="150" src="https://tenor.com/view/programmer-gif-16947823384733843530" />
+<img align="right" height="150" src="https://tenor.com/view/programmer-gif-16947823384733843530" />
 <div class="tenor-gif-embed"  data-postid="16947823384733843530" data-share-method="host" data-aspect-ratio="1.2029" data-width="100%"><a href="https://tenor.com/view/programmer-gif-16947823384733843530">Programmer GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
