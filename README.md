@@ -41,6 +41,14 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30" />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" alt="github" width="30" height="30" />
+    <img width="12" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="30" height="30" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=next" alt="next" width="30" height="30" />
+
 </div>
 
 ###
